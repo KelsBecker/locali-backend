@@ -1,25 +1,36 @@
-# README
+## Locali - Server Side
+### Description
+Locali is a web application that allows event loving users to browse events, create their own unique events, and rsvp to events they wish to attend.
+The goal of this project was to allow communites to connect with each other in creative and positive ways. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+### Video Demo
+- Enjoy a tour of [Locali](https://youtu.be/i3ApHHEiH8E) 
 
-* Ruby version
 
-* System dependencies
+### Live Demo
+- Coming Soon! 😃 
 
-* Configuration
 
-* Database creation
+### Technologies
+- React/JavaScript
+- Ruby on Rails for [server side](https://github.com/KelsBecker/locali-backend)
+- PostgreSQL Database
+- CSS including Semantic UI
 
-* Database initialization
+### Contributors
+Thanks to [Daniel Urbina](https://github.com/danielxurbina) who partnered with me to create this project.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### Inspiration
+I do not own the rights to any of the images included in this repository. All of these images were found using standard google searches. 
 
-* Deployment instructions
+Other web applications that provided inspiration are:
+- [Eventbrite](https://www.eventbrite.com/)
+- [Meetup](https://www.meetup.com/)
 
-* ...
-# locali-backendd
+
+### Contact
+I would love to hear from you!
+- [Email](kelly.lynn.becker@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kelly-lynn-becker/)
