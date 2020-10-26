@@ -9,4 +9,7 @@ class User < ApplicationRecord
 
     has_many :being_followed, foreign_key: :followee_id, class_name: 'Follow'
     has_many :followers, through: :being_followed
+
+    # validates :username, uniqueness: true
+    # validates_presence_of :name, :username, :password
 end

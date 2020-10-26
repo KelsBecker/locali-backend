@@ -16,8 +16,15 @@ class UsersController < ApplicationController
         render json: UserSerializer.new(user)
     end
 
-    #remember to update routes when I add functionality to create new user and delete account
-
+    # def create
+    #     user = User.create!(user_params)
+    #     # if user.valid?
+    #     render json: UserSerializer.new(user)
+    #     # else
+    #     # render json: { errors: user.errors.full_messages }
+    #     # end
+    # end
+    
     private 
 
     def user_params
